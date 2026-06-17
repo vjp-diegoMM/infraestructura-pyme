@@ -17,7 +17,7 @@ Internet → [Firewall UFW] → [Servidor Ubuntu 22.04]
 | Componente | Versión | Función |
 |------------|---------|---------|
 | Ubuntu Server | 22.04 LTS | Sistema operativo base |
-| Apache | 2.4.57 | Servidor web |
+| Apache | 2.4.60 | Servidor web |
 | PHP | 8.1 | Lenguaje del lado servidor |
 | MySQL | 8.0 | Base de datos |
 | UFW | 0.36 | Firewall |
